@@ -1,5 +1,5 @@
 package com.example.multimediapanga;
-//author Hartej Singh Grewal/7757992
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import android.app.Activity;
@@ -22,7 +22,8 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.Switch;
 import android.widget.TextView;
 import com.multimedia_project.R;
-//Hello
+//Hello 
+//author: Hartej Singh Grewal/7757992
 public class MainActivity extends Activity {
 	Intent launchCalendarIntent = null,  intent = null;
 	Button launchCal;
