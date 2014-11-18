@@ -22,9 +22,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.Switch;
 import android.widget.TextView;
 import com.multimedia_project.R;
-//Hello 
-//author: Hartej Singh Grewal/7757992
-//ytiytuitiutiut
+
 public class MainActivity extends Activity {
 	Intent launchCalendarIntent = null,  intent = null;
 	Button launchCal;
